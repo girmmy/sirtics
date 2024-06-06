@@ -5,8 +5,8 @@
 ## I'm an ambitious, 16-year-old high school student.
 
 - 👨‍💻 I’m currently working on web app projects using AI and developing dynamic websites for clients.
-- 📚 Learning everything about Frontend technologies. 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📚 Learning everything about Frontend Development. 😅
+- 💪🏼 Future Goals: LEARN MORE AND CREATE AWESOME PROJECTS!
 
 ---
 
