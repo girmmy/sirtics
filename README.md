@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Girmachew, but you can call me Gimmy.
 
-<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)" />
+<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 ## I'm an ambitious, 16-year-old high school student.
 
